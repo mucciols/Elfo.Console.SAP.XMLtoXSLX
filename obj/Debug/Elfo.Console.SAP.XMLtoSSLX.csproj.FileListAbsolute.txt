@@ -1,0 +1,7 @@
+D:\Projects\Elfo.Console.SAP.XMLtoSSLX\bin\Debug\Elfo.Console.SAP.XMLtoSSLX.exe.config
+D:\Projects\Elfo.Console.SAP.XMLtoSSLX\bin\Debug\Elfo.Console.SAP.XMLtoSSLX.exe
+D:\Projects\Elfo.Console.SAP.XMLtoSSLX\bin\Debug\Elfo.Console.SAP.XMLtoSSLX.pdb
+D:\Projects\Elfo.Console.SAP.XMLtoSSLX\obj\Debug\Elfo.Console.SAP.XMLtoSSLX.csproj.AssemblyReference.cache
+D:\Projects\Elfo.Console.SAP.XMLtoSSLX\obj\Debug\Elfo.Console.SAP.XMLtoSSLX.csproj.CoreCompileInputs.cache
+D:\Projects\Elfo.Console.SAP.XMLtoSSLX\obj\Debug\Elfo.Console.SAP.XMLtoSSLX.exe
+D:\Projects\Elfo.Console.SAP.XMLtoSSLX\obj\Debug\Elfo.Console.SAP.XMLtoSSLX.pdb
