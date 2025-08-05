@@ -13,6 +13,8 @@ namespace Elfo.Console.SAP.XMLtoSSLX
 
             string directoryOut = "D:\\Projects\\Elfo.Console.SAP.CSVtoXML\\bin\\Debug\\net8.0\\OUT\\XSLX\\";
 
+            //console log delle modifiche
+
             Directory.CreateDirectory(directoryOut);
 
             foreach (string file in files)
